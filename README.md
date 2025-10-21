@@ -3,6 +3,8 @@
 This repository contains a collection of Jupyter Notebook examples that demonstrate **fundamental control system techniques** using Python. It is designed for students, educators, and enthusiasts looking to explore and understand classic and modern control strategies through interactive simulations and visualizations.
 Each notebook is self-contained and focuses on a specific control technique.
 
+The `Control_Theory__The_Basics.pdf` is not maintained. The up to date theory is on the `Wiki` of the repository.
+
 ## Technologies Used
 
 - Python 3.x  
